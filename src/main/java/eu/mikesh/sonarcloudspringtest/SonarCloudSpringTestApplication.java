@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SonarCloudSpringTestApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(SonarCloudSpringTestApplication.class, args);
     }
 
