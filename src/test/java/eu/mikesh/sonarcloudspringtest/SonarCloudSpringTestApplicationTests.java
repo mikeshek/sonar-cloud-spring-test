@@ -13,7 +13,6 @@ class SonarCloudSpringTestApplicationTests {
     @Autowired
     private TestController testController;
 
-
     @Test
     void contextLoads() {
         assertNotNull(testController);
